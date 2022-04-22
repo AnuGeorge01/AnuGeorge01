@@ -1,6 +1,6 @@
 
 ### Hi Developers 👋
-[![Linkedin Badge](www.linkedin.com/in/anu-george-908008217)]
+[![Linkedin Badge](https://img.shields.io/badge/-Anu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-george-908008217/)](https://www.linkedin.com/in/anu-george-908008217/)
 
 I'm
 Intern at Edureka
