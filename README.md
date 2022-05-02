@@ -3,9 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Anu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-george-908008217/)](https://www.linkedin.com/in/anu-george-908008217/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Anu-yellow)](https://stackoverflow.com/users/18815114/anugeorge01-)
 
-
-I'm
-Intern at Edureka
+I'm a Software Engineer who has spent the last two years working for a respectable IT firm. I've worked on backend development for automation projects with technologies like arago hiro and snow. The combination of design and programming has always piqued my interest. I have a wide range of skills that allow me to work on both backend and frontend development projects. My current goal is to enhance my coding skills so that I may work as a Full Stack Web Developer.
 
 ![Visitor Count](https://profile-counter.glitch.me/AnuGeorge01/count.svg)
 
